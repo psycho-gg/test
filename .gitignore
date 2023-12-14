@@ -1,0 +1,46 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# logs
+logs
+*.log
+
+# dotenv environment variable files
+.env
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains
+.idea/
+*.iml
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
